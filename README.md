@@ -5,10 +5,14 @@ A Flutter project to track your book library.
 ## Introduction
 
 This application allows you to keep track of the books you own, books you have read, and books you want to read. It provides a simple and intuitive interface for managing your personal library.
-![image](https://github.com/user-attachments/assets/41d52104-af82-440f-9235-20d87063981d)
-![image](https://github.com/user-attachments/assets/efb35b40-84cb-4cce-9fd3-0813d90ea428)
-![image](https://github.com/user-attachments/assets/5bc867a9-c63f-4288-a319-369721471283)
-![image](https://github.com/user-attachments/assets/a3fc9c29-f3f2-4f4a-b9ef-d6ff6ed7ae9c)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/41d52104-af82-440f-9235-20d87063981d" alt="Image 1" width="45%" style="margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/efb35b40-84cb-4cce-9fd3-0813d90ea428" alt="Image 2" width="45%" style="margin: 5px;">
+</div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/5bc867a9-c63f-4288-a319-369721471283" alt="Image 3" width="45%" style="margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/a3fc9c29-f3f2-4f4a-b9ef-d6ff6ed7ae9c" alt="Image 4" width="45%" style="margin: 5px;">
+</div>
 
 
 ## Details and Features
